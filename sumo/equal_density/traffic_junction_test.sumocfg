@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="traffic_junction_test.net.xml"/>
+        <route-files value="traffic_junction_test.rou.xml"/>
+    </input>
+    
+    <processing>
+    	<ignore-route-errors value = "true"/>
+    	<lateral-resolution value = "1.0"/>
+    </processing>
+    
+</configuration>
+

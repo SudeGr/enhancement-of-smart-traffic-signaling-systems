@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-03-16 20:02:18 by Eclipse SUMO netedit Version 1.12.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+	
+	    <vType id="standard_vehicle" accel="1.8" decel="3.0" length="5" maxSpeed="55.55"/>
+    	<vType id="long_vehicle" accel="1.5" decel="2.5" length="15" maxSpeed="55.55"/>
+    	    
+	    <route id="east_to_north" color="1,1,0" edges="east_leave north_arrive"/>
+	    <route id="east_to_west" color="1,1,0" edges="east_leave west_arrive"/>
+	    <route id="east_to_south" color="1,1,0" edges="east_leave south_arrive"/>
+
+	    <route id="west_to_north" color="1,1,0" edges="west_leave north_arrive"/>
+	    <route id="west_to_east" color="1,1,0" edges="west_leave east_arrive"/>
+	    <route id="west_to_south" color="1,1,0" edges="west_leave south_arrive"/>
+
+	    <route id="north_to_east" color="1,1,0" edges="north_leave east_arrive"/>
+	    <route id="north_to_west" color="1,1,0" edges="north_leave west_arrive"/>
+	    <route id="north_to_south" color="1,1,0" edges="north_leave south_arrive"/>    
+
+	    <route id="south_to_north" color="1,1,0" edges="south_leave north_arrive"/>
+	    <route id="south_to_west" color="1,1,0" edges="south_leave west_arrive"/>
+	    <route id="south_to_east" color="1,1,0" edges="south_leave east_arrive"/>
+	    
+	    <flow id="car_flow_1" color="1,0,0" begin="0" end="3" period="3" route="east_to_north" type="standard_vehicle"/> 
+	    <flow id="car_flow_2" color="1,0,0" begin="0" end="3" period="2" route="east_to_west" type="standard_vehicle"/> 
+	    <flow id="car_flow_3" color="1,0,0" begin="0" end="20" number="0" route="east_to_south" type="standard_vehicle"/>
+
+	    <flow id="car_flow_4" color="1,1,1" begin="0" end="20" period="2.85" route="west_to_east" type="standard_vehicle"/> 
+	    <flow id="car_flow_5" color="1,1,1" begin="0" end="20" period="9" route="west_to_south" type="standard_vehicle"/>  
+	    <flow id="car_flow_6" color="1,1,1" begin="0" end="20" period="5" route="west_to_north" type="standard_vehicle"/> 
+
+	    <flow id="car_flow_7" color="1,0,1" begin="0" end="5" period="5" route="north_to_east" type="standard_vehicle"/>
+	    <flow id="car_flow_8" color="1,0,1" begin="0" end="20" period="5" route="north_to_west" type="standard_vehicle"/>
+	    <flow id="car_flow_9" color="1,0,1" begin="0" end="20" period="1" route="north_to_south" type="standard_vehicle"/>
+		<flow id="car_flow_20" color="1,1,0" begin="0" end="20" period="5" route="north_to_south" type="long_vehicle"/> 
+
+	    <flow id="car_flow_10" color="1,1,0" begin="0" end="25" period="4" route="south_to_north" type="standard_vehicle"/>  
+	    <flow id="car_flow_11" color="1,1,0" begin="0" end="20" number="0" route="south_to_west" type="standard_vehicle"/>
+	    <flow id="car_flow_12" color="1,1,0" begin="0" end="20" number="0" route="south_to_east" type="standard_vehicle"/>
+		<flow id="car_flow_21" color="1,1,0" begin="0" end="20" period="5" route="south_to_north" type="long_vehicle"/> 
+    
+
+    	<personFlow id="personFlow_1" begin="0.00" end="20" period="7">
+		<personTrip from="south_arrive" to="south_leave"/>
+	    </personFlow>
+
+	    <personFlow id="personFlow_2" begin="0.00" end="3" period="3">
+		<personTrip from="north_arrive" to="south_leave"/>
+	    </personFlow>
+
+	    <personFlow id="personFlow_3" begin="20" end="24" period="3">
+		<personTrip from="south_leave" to="north_arrive"/>
+	    </personFlow>
+
+	    <personFlow id="personFlow_4" begin="20" end="24" period="3">
+		<personTrip from="south_arrive" to="south_leave"/>
+	    </personFlow>
+
+	    <flow id="car_flow_13" color="1,0,0" begin="25" end="28" period="2" route="east_to_west" type="standard_vehicle"/> 
+        <flow id="car_flow_14" color="1,1,0" begin="30" end="33" period="2" route="south_to_east" type="standard_vehicle"/>
+
+	    <personFlow id="personFlow_5" begin="30" end="34" period="2">
+		<personTrip from="south_arrive" to="south_leave"/>
+	    </personFlow>
+
+	    <flow id="car_flow_15" color="1,1,0" begin="30" end="45" period="2" route="south_to_north" type="standard_vehicle"/> 
+	    <flow id="car_flow_16" color="1,1,0" begin="35" end="38" period="3" route="south_to_west" type="standard_vehicle"/> 
+	    <flow id="car_flow_17" color="1,1,0" begin="40" end="41" period="1" route="south_to_north" type="standard_vehicle"/> 
+	    <flow id="car_flow_18" color="1,1,0" begin="40" end="45" period="1" route="south_to_north" type="long_vehicle"/> 
+		<flow id="car_flow_19" color="1,1,0" begin="40" end="43" period="1" route="north_to_south" type="long_vehicle"/> 
+
+	    <personFlow id="personFlow_6" begin="40" end="45" period="2">
+		<personTrip from="east_arrive" to="west_leave"/>
+	    </personFlow>
+
+	    <personFlow id="personFlow_7" begin="48" end="53" period="2">
+		<personTrip from="north_arrive" to="south_leave"/>
+	    </personFlow>
+
+
+</routes>

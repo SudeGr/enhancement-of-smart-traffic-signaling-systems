@@ -1,0 +1,455 @@
+2023-06-11 18:56:03
+--------------------------------------------------------------------
+Simulation Minute: 1
+	Counts:
+		Standard vehicles in phase 1: 2
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 50.0
+		Density of phase 2: 50.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 2
+	Counts:
+		Standard vehicles in phase 1: 9
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 20
+		Standard vehicles in phase 2: 16
+		Long vehicles in phase 2: 5
+		Pedestrians in phase 2: 2
+
+	Densities:
+		Density of phase 1: 20.75
+		Density of phase 2: 79.25
+
+	Durations:
+		Green duration of phase 1 (seconds): 17.2
+		Green duration of phase 2 (seconds): 42.8
+
+Simulation Minute: 3
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 2
+		Standard vehicles in phase 2: 3
+		Long vehicles in phase 2: 6
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 100.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 7.7
+		Green duration of phase 2 (seconds): 52.3
+
+Simulation Minute: 4
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 2
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 100.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 7.7
+		Green duration of phase 2 (seconds): 52.3
+
+Simulation Minute: 5
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+	Improvement:
+		Percentage improvement: %22.3805
+
+
+2023-06-11 18:56:35
+--------------------------------------------------------------------
+Simulation Minute: 1
+	Counts:
+		Standard vehicles in phase 1: 2
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 50.0
+		Density of phase 2: 50.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 2
+	Counts:
+		Standard vehicles in phase 1: 11
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 11
+		Standard vehicles in phase 2: 8
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 2
+
+	Densities:
+		Density of phase 1: 40.62
+		Density of phase 2: 59.38
+
+	Durations:
+		Green duration of phase 1 (seconds): 21.4
+		Green duration of phase 2 (seconds): 38.6
+
+Simulation Minute: 3
+	Counts:
+		Standard vehicles in phase 1: 6
+		Long vehicles in phase 1: 7
+		Pedestrians in phase 1: 2
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 1
+
+	Densities:
+		Density of phase 1: 88.51
+		Density of phase 2: 11.49
+
+	Durations:
+		Green duration of phase 1 (seconds): 46.0
+		Green duration of phase 2 (seconds): 14.0
+
+Simulation Minute: 4
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 5
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+	Improvement:
+		Percentage improvement: %30.0373
+
+
+2023-06-11 18:57:20
+--------------------------------------------------------------------
+Simulation Minute: 1
+	Counts:
+		Standard vehicles in phase 1: 2
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 50.0
+		Density of phase 2: 50.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 2
+	Counts:
+		Standard vehicles in phase 1: 7
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 8
+		Standard vehicles in phase 2: 16
+		Long vehicles in phase 2: 6
+		Pedestrians in phase 2: 2
+
+	Densities:
+		Density of phase 1: 22.39
+		Density of phase 2: 77.61
+
+	Durations:
+		Green duration of phase 1 (seconds): 18.2
+		Green duration of phase 2 (seconds): 41.8
+
+Simulation Minute: 3
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 2
+		Standard vehicles in phase 2: 12
+		Long vehicles in phase 2: 2
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 100.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 7.7
+		Green duration of phase 2 (seconds): 52.3
+
+Simulation Minute: 4
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 1
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 100.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 7.7
+		Green duration of phase 2 (seconds): 52.3
+
+Simulation Minute: 5
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+	Improvement:
+		Percentage improvement: %30.91
+
+
+2023-06-11 18:58:11
+--------------------------------------------------------------------
+Simulation Minute: 1
+	Counts:
+		Standard vehicles in phase 1: 2
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 50.0
+		Density of phase 2: 50.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 2
+	Counts:
+		Standard vehicles in phase 1: 5
+		Long vehicles in phase 1: 1
+		Pedestrians in phase 1: 8
+		Standard vehicles in phase 2: 9
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 1
+
+	Densities:
+		Density of phase 1: 29.75
+		Density of phase 2: 70.25
+
+	Durations:
+		Green duration of phase 1 (seconds): 20.3
+		Green duration of phase 2 (seconds): 39.7
+
+Simulation Minute: 3
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 2
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 1
+
+	Densities:
+		Density of phase 1: 33.33
+		Density of phase 2: 66.67
+
+	Durations:
+		Green duration of phase 1 (seconds): 21.1
+		Green duration of phase 2 (seconds): 38.9
+
+Simulation Minute: 4
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 5
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+	Improvement:
+		Percentage improvement: %34.7497
+
+
+2023-06-11 19:05:07
+--------------------------------------------------------------------
+Simulation Minute: 1
+	Counts:
+		Standard vehicles in phase 1: 2
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 2
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 50.0
+		Density of phase 2: 50.0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 2
+	Counts:
+		Standard vehicles in phase 1: 5
+		Long vehicles in phase 1: 1
+		Pedestrians in phase 1: 8
+		Standard vehicles in phase 2: 9
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 1
+
+	Densities:
+		Density of phase 1: 29.75
+		Density of phase 2: 70.25
+
+	Durations:
+		Green duration of phase 1 (seconds): 20.3
+		Green duration of phase 2 (seconds): 39.7
+
+Simulation Minute: 3
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 2
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 1
+
+	Densities:
+		Density of phase 1: 33.33
+		Density of phase 2: 66.67
+
+	Durations:
+		Green duration of phase 1 (seconds): 21.1
+		Green duration of phase 2 (seconds): 38.9
+
+Simulation Minute: 4
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+Simulation Minute: 5
+	Counts:
+		Standard vehicles in phase 1: 0
+		Long vehicles in phase 1: 0
+		Pedestrians in phase 1: 0
+		Standard vehicles in phase 2: 0
+		Long vehicles in phase 2: 0
+		Pedestrians in phase 2: 0
+
+	Densities:
+		Density of phase 1: 0
+		Density of phase 2: 0
+
+	Durations:
+		Green duration of phase 1 (seconds): 30
+		Green duration of phase 2 (seconds): 30
+
+	Improvement:
+		Percentage improvement: %34.7497
+
+
