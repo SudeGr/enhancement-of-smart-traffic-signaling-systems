@@ -1,6 +1,6 @@
 """This file contains the constant definitions and paths used in multiple Python files."""
 
-base_path = '/home/ubuntu/Desktop/Bitirme_Projesi/code/final_project'
+base_path = '/home/ubuntu/Desktop/final_project'
 sumo_path = '/sumo/real-life/traffic_junction_test.sumocfg'
 logs_path = '/files/logs.txt'
 files_path = '/files/'
